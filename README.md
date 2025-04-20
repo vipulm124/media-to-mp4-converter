@@ -1,4 +1,4 @@
-# Media to MP4 Converter
+# .Media to MP4 Converter
 
 This project provides a utility to convert various media file formats into MP4 format using FFmpeg.
 
